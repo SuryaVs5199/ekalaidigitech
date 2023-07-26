@@ -76,7 +76,7 @@ p.small {
   z-index: -1;
   top: -16px;
   right: -16px;
-  background: #edd795;
+  background: #00838d;
   height: 32px;
   width: 32px;
   border-radius: 32px;
@@ -96,7 +96,7 @@ p.small {
 
 .card1:hover h3 {
   transition: all 0.3s ease-out;
-  color: #1c2a59;
+  color: #ffffff;
 }
 
 .card2 {
